@@ -1,0 +1,17 @@
+{
+  "name": "UANG KAS",
+  "short_name": "UANG KAS",
+  "start_url": "./index.php",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4e73df",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "assets/icons/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
